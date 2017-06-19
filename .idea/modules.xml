@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAopAnnotationSimpleExample.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAopAnnotationSimpleExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAopAnnotationSimpleExample_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAopAnnotationSimpleExample_main.iml" group="SpringAopAnnotationSimpleExample" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringAopAnnotationSimpleExample_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringAopAnnotationSimpleExample_test.iml" group="SpringAopAnnotationSimpleExample" />
+    </modules>
+  </component>
+</project>
